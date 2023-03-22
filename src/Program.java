@@ -9,7 +9,7 @@ public class Program {
             int resultado = entrada * mesada;        
             
             
-            System.out.println("Voce tera "+ resultado + " reais");
+            System.out.println("Voce tera "+ resultado + " reais em " + entrada + " meses");
         }
         
     }
