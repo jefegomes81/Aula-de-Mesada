@@ -5,7 +5,7 @@ public class Program {
         try (var leitor = new Scanner(System.in)) {
 
             System.out.println("Informe os meses: ");
-            
+
                int entrada = leitor.nextInt();
                int mesada = 50;
                int resultado = entrada * mesada;        
